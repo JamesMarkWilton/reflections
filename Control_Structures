@@ -1,0 +1,24 @@
+How do &&, ||, if, while unless and until work?
+
+When an && is evaluated it returns the last item that has been evaluated.
+
+  --If the left side is false or nil then it stops because the whole statement will be false
+    no matter what so that first value is returned. If true then true it will return the second
+    as it is entered "" or int  or whatev. If first is true then false or nil return second value.
+
+When an || is evaluated it is the oppisite ti terms of when it stops.
+
+  --If it starts with a true then it stops and returns whateve that value is. But False it has to
+    keep going to find a true and it returns the last thing evaluated as before.
+
+An if statement takes in a boolean and if true it evaluates and returns whatever is in the code
+if that value is nil or false it skips the code block and either moves on to the next else/elsif
+or it just jumps out of the statement.
+
+A while statement does the same but for a loop so it keeps looping while the statement that it
+takes is true once it becomes false it stops and jumos out of the loop.
+
+The unless statement acts like an opostion to the if it takes in a false value ????
+
+The until is the oppistie loop it only works when the statement is false if at any time the intake
+becomes true it stops and jumps out.

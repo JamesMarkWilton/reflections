@@ -1,0 +1,13 @@
+* It holds the urls that fall under api
+* at github
+* it is a secure server
+* it holds things like search tools
+* teams, emails addresses, users, events, emojis, followers
+* social media?
+* api is defined as a "application program interface" these are used w/ GUI to interact w/ user
+* To add more data you would give it a "describer" title block "title":
+    and seperate via a colon then the "link" ended with a comma
+* they were links to github**** duh
+* through these links you can check out git hub and it's function
+* another link that would work would be curl 'https://api.github.com/users/JoshCheek'
+*
