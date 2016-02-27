@@ -1,4 +1,6 @@
 Hello James,
+How are you today?
+Oh dear now I am talking to myself!
 
  I know you may be freaked out right now...both by the fact that I am sending you a message from the future and by the fact that
 you're currently undertaking a reallt fucking big step in your life. First I would like to inform you that it was the right choice. I know this, by
